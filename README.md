@@ -1,5 +1,7 @@
 # Registration Form – React + Zod + React-Hook-Form
 
+👉 **Live Demo:** [Click here](https://resgistration-form-with-react.vercel.app/)
+
 A simple registration form built with **React**, **React Hook Form**, and **Zod** for schema-based validation.  
 This project was created as part of a hiring assignment and demonstrates form handling, validation, and user feedback.
 
