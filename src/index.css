@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+html {
+  direction: rtl;
+  /* --toastify-color-progress-light: #ff6e00 !important; */
+}
+.Toastify__toast {
+  --toastify-text-color-light: black !important;
+  font-weight: bold !important;
+  font-family: "Times New Roman", Times, serif !important;
+}
+@theme {
+  --color-apostrophe-orange: #ff6e00;
+}
